@@ -2,6 +2,11 @@ import java.time.LocalDate;
 import java.time.temporal.ChronoField;
 import java.util.Scanner;
 
+/*
+김다혜
+미니과제 5번
+*/
+
 public class Test5 {
     public static void main(String[] args) {
         System.out.println("[달력 출력 프로그램]");
