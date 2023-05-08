@@ -1,4 +1,7 @@
 import java.util.Scanner;
+/*김다혜
+미니과제 3번
+*/
 
 public class Test3 {
     public static void main(String[]args) {
