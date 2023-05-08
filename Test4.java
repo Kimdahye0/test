@@ -1,5 +1,9 @@
 import java.util.Random;
 import java.util.Scanner;
+/*
+김다혜
+미니과제4번
+*/
 
 public class Test4 {
     public static void main(String[] args) {
