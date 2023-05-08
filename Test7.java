@@ -2,6 +2,11 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
+/*
+김다혜
+미니과제7번
+*/
+
 public class Test7{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
