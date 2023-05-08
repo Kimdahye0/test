@@ -2,6 +2,11 @@ import java.util.Random;
 
 import static java.lang.String.*;
 
+/* 
+김다혜
+미니과제6번
+*/
+
 public class Test6 {
     public static void main(String[] args) {
         String[] 후보들 = {"이재명", "윤석열", "심상정", "안철수"};
